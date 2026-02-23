@@ -1,0 +1,8 @@
+{
+  "name": "Atoz Home Delivery",
+  "description": "An aggregator e-commerce platform bringing best deals from Amazon, Flipkart, Meesho, and Snapdeal with a rewards system.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
